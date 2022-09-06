@@ -1,0 +1,5 @@
+package com.contact.application
+
+dependencies {
+    compile project(":controller")
+}
